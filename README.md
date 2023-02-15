@@ -1,16 +1,13 @@
-### Hi there 👋
+## Boas vindas ao meu perfil 😀
 
-<!--
-**AissaLMachado/AissaLMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Aissa Machado,  Apaixonada por Técnologia, migrando de formação para Desenvolvimento Web.
 
-Here are some ideas to get you started:
+Atualmente trabalho com suporte técnico  de redes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- GITHUB STATUS -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AissaLMachado&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
